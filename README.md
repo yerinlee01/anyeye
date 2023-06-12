@@ -26,4 +26,4 @@ Python==3.7
 
         python anyeye.py
 
-5. Results will be created in './results'
+5. Results will be created in `./results`
