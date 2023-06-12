@@ -1,6 +1,6 @@
 # ANyEye
 
-Python==3.7
+**Python==3.7**
 
 1. git clone or download this repository
 
