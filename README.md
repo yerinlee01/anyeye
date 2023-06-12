@@ -22,7 +22,7 @@ Python==3.7
         video_out = <1 if you want video result 0 if you don't>
         model = <unet, unet++l2, unet++l3, or unet++l4>
 
-4. Execute code with
+4. Execute ANyEye with
 
         python anyeye.py
 
