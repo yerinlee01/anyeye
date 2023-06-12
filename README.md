@@ -19,7 +19,7 @@ Python==3.7
         filetype = <image or video>
         num_eyes = <count eyes of your input>
         left_eye_index = <insert index of left (inverted) eye if exists>
-        video_out = <1 if you want tracked output 0 if you don't>
+        video_out = <1 if you want video result 0 if you don't>
         model = <unet, unet++l2, unet++l3, or unet++l4>
 
 4. Execute code with
