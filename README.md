@@ -8,6 +8,10 @@ Python==3.7
 
         pip install -r requirements.txt
 
+or
+
+        conda create --name <env> --file <this file>
+
 3. Edit config.ini
 
         [config]
