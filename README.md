@@ -8,10 +8,6 @@
 
         pip install -r requirements.txt
 
-    or
-
-        conda create --name <env> --file requirements.txt
-
 3. Edit config.ini
 
         [config]
