@@ -6,7 +6,7 @@ Python==3.7
 
 2. Install requirements on your virtual environment with
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 3. Edit config.ini
 
