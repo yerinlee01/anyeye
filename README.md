@@ -2,11 +2,13 @@
 
 Python==3.7
 
-Install requirements on your virtual environment with
+1. git clone or download this repository
+
+2. Install requirements on your virtual environment with
 
     pip install -r requirements.txt
 
-Edit config.ini
+3. Edit config.ini
 
     [config]
     input_dir = [directory of your image or video]
@@ -16,7 +18,7 @@ Edit config.ini
     video_out = [1 if you want tracked output 0 if you don't]
     model = [unet, unet++l2, unet++l3, or unet++l4]
 
-Execute code with
+4. Execute code with
 
     python anyeye.py
 
