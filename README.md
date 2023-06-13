@@ -1,5 +1,5 @@
 # ANyEye
-![anyeye io - small](https://github.com/yerinlee01/anyeye/assets/97585388/0bb1cebe-3374-41af-9f48-f5536d9d5a5f)
+![anyeye io - small](https://github.com/yerinlee01/anyeye/assets/97585388/d891d84f-f835-42e1-982d-ec9ed611faa1)
 
 ## Getting started
 **Python==3.7**
