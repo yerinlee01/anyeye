@@ -1,6 +1,6 @@
 # ANyEye
 
-# Gettomg started
+## Getting started
 **Python==3.7**
 1. git clone or download this repository
 
