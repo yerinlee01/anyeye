@@ -1,7 +1,7 @@
 # ANyEye
 
+# Gettomg started
 **Python==3.7**
-
 1. git clone or download this repository
 
 2. Install requirements on your virtual environment with
