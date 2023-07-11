@@ -29,9 +29,10 @@
         left_eye_index = <insert index of left (inverted) eye if exists>
         video_out = <1 if you want video result 0 if you don't>
         model = <unet, unet++l2, unet++l3, or unet++l4>
+        slippage_removal = <1 if you want slippage removed result 0 if you don't>
 
-5. Execute ANyEye with
+6. Execute ANyEye with
 
         python anyeye.py
 
-6. Results will be created in `./results`.
+7. Results will be created in `./results`.
